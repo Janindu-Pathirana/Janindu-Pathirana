@@ -9,7 +9,7 @@
 ```javascript
 const Janindu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Solidity", "Java", "Dart"],
+    code: ["Javascript", "Solidity", "Java", "Dart","TypeScript", "Rust", "Go"],
     askMeAbout: ["web dev", "tech", "app dev", "blockchain", "Dapp],
     technologies: {
         backEnd: {

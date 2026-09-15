@@ -83,81 +83,6 @@ Also day-to-day: **Nx monorepos**, Azure AD B2C, Azure App Service, AWS Lambda, 
 
 ---
 
-## Experience
-
-### Fluencr — Mid-Senior Software Engineer
-**Feb 2025 – Present** · Remote · Influencer marketing platform for brands and creators
-
-Lead design and delivery of scalable full-stack systems in an Nx monorepo. Architected a serverless scraping pipeline on **AWS Lambda + Node.js** to collect consented, publicly available social data. Drive Nest.js / TypeScript backends and React frontends, and harden Docker + Bitbucket Pipelines + Terraform so releases stay automated and reliable.
-
-`TypeScript` `Nest.js` `React` `AWS Lambda` `Docker` `Nx` `Terraform` `Bitbucket Pipelines`
-
-### Cubal.ai — Software Engineer
-**Sep 2024 – Feb 2025** · Remote · Contract · Singapore-based client
-
-Designed and shipped full-stack apps with **Next.js** and **Express.js**. Built enterprise authentication with **Azure AD B2C**, optimized APIs and database performance, and ran infrastructure on Azure App Service and Azure SQL. Partnered directly with international stakeholders from requirements through production.
-
-`Next.js` `Express.js` `Azure AD B2C` `Azure App Service` `Azure SQL` `Terraform`
-
-### Dapptize Inc. — Associate Software Engineer
-**2024** · Overlapping contract · No-code Web3 platform
-
-Contributed to a no-code builder for secure websites and dApps — templates, plugins, and connectors so teams can ship Web3 products without writing blockchain code from scratch.
-
-`Web3` `dApps` `Plugins` `Blockchain`
-
-### Crypto Canary Network — Associate Software Engineer
-**2023 – 2024** · Remote · Contract
-
-Built and maintained enterprise full-stack apps with React, Express, and PostgreSQL. Integrated blockchain capabilities, deployed on **GCP**, and mentored a junior engineer through code reviews and planning. Core product work included Optigo, an internal logistics operations platform.
-
-`React` `Express.js` `PostgreSQL` `GCP`
-
-### 99x — Software Engineer Intern
-**Jul 2022 – Jul 2023** · Sri Lanka · Norkart + research
-
-Contributed to enterprise apps with React, .NET, and Azure for Norwegian clients. Worked Agile / DevOps, and researched NFT architectures plus automation tooling — including upgradable NFTs and a mnemonic library across Solana, Polygon, and Stellar.
-
-`TypeScript` `React` `Redux` `.NET` `Azure` `Solidity` `Go`
-
-### ElysianMemorials — Software Developer
-**2021 – 2022** · Remote · Contract
-
-Helped build a memorial-event platform: Express.js APIs, Next.js UI, MySQL, Azure hosting, and automated tests with Mocha, Chai, and Sinon in an Agile Scrum team.
-
-`Express.js` `Next.js` `TypeScript` `MySQL` `Azure` `GitHub Actions`
-
----
-
-## Featured work
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Fluencr</h3>
-      <p><strong>Enterprise influencer platform</strong></p>
-      <p>Full-stack registration, campaigns, and real-time chat. Serverless scraping across <strong>4+ social platforms</strong> with user validation, AWS Secrets Manager, Docker, Terraform, and an Nx monorepo.</p>
-      <p><code>React</code> <code>Nest.js</code> <code>AWS Lambda</code> <code>PostgreSQL</code> <code>Terraform</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Freyt</h3>
-      <p><strong>Customer support chatbot</strong></p>
-      <p>High-availability web app and AI chatbot designed for <strong>1,000+ concurrent users/sec</strong>. Horizontal scaling, Azure Service Bus, App Service, Azure SQL, and zero-downtime delivery.</p>
-      <p><code>Next.js</code> <code>Express.js</code> <code>Azure</code> <code>Service Bus</code> <code>Terraform</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Optigo</h3>
-      <p><strong>Service & asset management</strong></p>
-      <p>Internal logistics platform for job allocation, employee tracking, and client workflows. Role-based access for admin, manager, and operations, backed by PostgreSQL on GCP.</p>
-      <p><code>Next.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>GCP</code> <code>RBAC</code></p>
-    </td>
-  </tr>
-</table>
-
-**Also built:** [Dapptize](https://www.linkedin.com/in/janindu-pathirana/) (no-code Web3) · updatable digital-twin NFTs for supply chain · [Ayush 2.0](https://youtube.com/watch?v=q2CmLuEoHGE&t=297s) (AI stethoscope) · Digital Plumber Dialog (Norkart plumbing operations)
-
----
-
 ## Writing
 
 - [Managing Multiple Authorities in NFTs: Exploring Two Solidity Approaches](https://medium.com/99xtechnology/managing-multiple-authorities-in-nfts-exploring-two-solidity-approaches-7aa364d62692) — 99x Technology
@@ -187,17 +112,9 @@ Helped build a memorial-event platform: Express.js APIs, Next.js UI, MySQL, Azur
 ## GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Janindu-Pathirana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janindu-Pathirana&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Janindu-Pathirana&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Janindu-Pathirana&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janindu-Pathirana&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </div>
-
----
-
-> “Janindu is an amazing engineer. He has the ability to take complex problems and break them down into clear, practical solutions… IaC is one area he particularly shined in.”
->
-> — [Anu Wickramasinghe](https://www.linkedin.com/in/anu-wickramasinghe-3315b7350)
 
 ---
 
